@@ -1,1 +1,1 @@
-web: python msg.py
+web: python t8.py
